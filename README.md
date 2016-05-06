@@ -1,2 +1,1 @@
-# Java-script
-Java script codes
+This is the README file for my JS code.
